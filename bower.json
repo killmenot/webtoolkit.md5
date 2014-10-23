@@ -1,0 +1,20 @@
+{
+	"name": "webtoolkit.md5",
+	"version": "1.0.0",
+	"authors": [
+		"Alexey Kucherenko <alexei.kucherenko@gmail.com>"
+	],
+	"main": ["./md5.js"],
+	"keywords": [
+		"webtoolkit",
+		"md5"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/killmenot/webtoolkit.md5",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"test",
+		"tests"
+	]
+}
