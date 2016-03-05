@@ -5,11 +5,8 @@
  *
  **/
 
-(function () {
+(function (exports) {
   'use strict';
-
-  var exports = this;
-  var originalGlobalValue = exports.MD5;
 
   var MD5 = function (string) {
 
@@ -251,4 +248,4 @@
   } else {
     exports.MD5 = MD5;
   }
-}).call(this);
+})(this);
