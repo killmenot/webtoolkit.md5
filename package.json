@@ -1,6 +1,6 @@
 {
   "name": "webtoolkit.md5",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "webtoolkit.md5",
   "main": "md5.js",
   "scripts": {
