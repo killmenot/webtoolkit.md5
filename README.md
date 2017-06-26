@@ -9,4 +9,5 @@ This script is used to process a variable length message into a fixed-length out
 
 ## References
 
+[MD5 on Wikipedia](https://en.wikipedia.org/wiki/MD5)
 [Javascript MD5](http://www.webtoolkit.info/javascript-md5.html)
