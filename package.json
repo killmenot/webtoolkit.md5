@@ -1,0 +1,19 @@
+{
+  "name": "webtoolkit.md5",
+  "version": "1.0.0",
+  "description": "webtoolkit.md5",
+  "main": "md5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killmenot/webtoolkit.md5.git"
+  },
+  "author": "Alexey Kucherenko <alexei.kucherenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killmenot/webtoolkit.md5/issues"
+  },
+  "homepage": "https://github.com/killmenot/webtoolkit.md5#readme"
+}
