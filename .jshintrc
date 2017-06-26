@@ -14,11 +14,5 @@
   "undef": true,
   "unused": true,
   "trailing": true,
-  "laxcomma": true,
-
-  "globals":{
-    "angular": true,
-    "d3": true,
-    "_": true
-  }
+  "laxcomma": true
 }
